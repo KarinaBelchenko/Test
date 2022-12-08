@@ -7,17 +7,17 @@ int value = 645;
 int a = value / 100;
 int b = (value / 10) % 10 ;
 int C = value % 10;
-Console.WriteLine(c);
+Console.WriteLine(C);
 
-int value = 78; 
-int a = value / 100;
-int b = (value / 10) % 10 ;
-int C = value % 10;
-Console.WriteLine(c);
+int value1 = 78; 
+int a1 = value1 / 100;
+int b1 = (value1 / 10) % 10 ;
+int C1 = value1 % 10;
+Console.WriteLine("Имя С1 не сушествует");
 
-int value = 32679; 
-int a = value / 100;
-int b = (value / 10) % 10 ;
-int C = value % 10;
-Console.WriteLine(b);
+int value2 = 32679; 
+int a2 = value2 / 10000;
+int b2 = (value2 / 1000) % 1000 ;
+int C2 = value2 % 100;
+Console.WriteLine(b2);
 

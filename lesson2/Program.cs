@@ -1,4 +1,4 @@
-﻿ int [] array = {645, 78, 32679};
- Console.WriteLine (array[3]);
+﻿ int [] array = {1, 2, 3, 5};
+ Console.WriteLine(array[2]);
 
 

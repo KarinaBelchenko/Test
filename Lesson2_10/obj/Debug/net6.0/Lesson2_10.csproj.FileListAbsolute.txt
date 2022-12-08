@@ -1,0 +1,15 @@
+C:\Users\Karina\Desktop\Project01\Test\Lesson2_10\obj\Debug\net6.0\Lesson2_10.csproj.AssemblyReference.cache
+C:\Users\Karina\Desktop\Project01\Test\Lesson2_10\obj\Debug\net6.0\Lesson2_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karina\Desktop\Project01\Test\Lesson2_10\obj\Debug\net6.0\Lesson2_10.AssemblyInfoInputs.cache
+C:\Users\Karina\Desktop\Project01\Test\Lesson2_10\obj\Debug\net6.0\Lesson2_10.AssemblyInfo.cs
+C:\Users\Karina\Desktop\Project01\Test\Lesson2_10\obj\Debug\net6.0\Lesson2_10.csproj.CoreCompileInputs.cache
+C:\Users\Karina\Desktop\Project01\Test\Lesson2_10\bin\Debug\net6.0\Lesson2_10.exe
+C:\Users\Karina\Desktop\Project01\Test\Lesson2_10\bin\Debug\net6.0\Lesson2_10.deps.json
+C:\Users\Karina\Desktop\Project01\Test\Lesson2_10\bin\Debug\net6.0\Lesson2_10.runtimeconfig.json
+C:\Users\Karina\Desktop\Project01\Test\Lesson2_10\bin\Debug\net6.0\Lesson2_10.dll
+C:\Users\Karina\Desktop\Project01\Test\Lesson2_10\bin\Debug\net6.0\Lesson2_10.pdb
+C:\Users\Karina\Desktop\Project01\Test\Lesson2_10\obj\Debug\net6.0\Lesson2_10.dll
+C:\Users\Karina\Desktop\Project01\Test\Lesson2_10\obj\Debug\net6.0\refint\Lesson2_10.dll
+C:\Users\Karina\Desktop\Project01\Test\Lesson2_10\obj\Debug\net6.0\Lesson2_10.pdb
+C:\Users\Karina\Desktop\Project01\Test\Lesson2_10\obj\Debug\net6.0\Lesson2_10.genruntimeconfig.cache
+C:\Users\Karina\Desktop\Project01\Test\Lesson2_10\obj\Debug\net6.0\ref\Lesson2_10.dll
