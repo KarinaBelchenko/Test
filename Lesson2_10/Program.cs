@@ -15,9 +15,17 @@ int b1 = (value1 / 10) % 10 ;
 int C1 = value1 % 10;
 Console.WriteLine("Имя С1 не сушествует");
 
-int value2 = 32679; 
-int a2 = value2 / 10000;
-int b2 = (value2 / 1000) % 1000 ;
-int C2 = value2 % 100;
-Console.WriteLine(b2);
+
+int value2 = 32679;
+int ing = 0;
+
+int buf = value2;
+while (C2 = value2 / Buf(10/ing-3)%10);
+{
+    ing++;
+    buf = buf / 10;
+     until(buf>=1);
+    Console.WriteLine(C2);
+    }
+  
 
