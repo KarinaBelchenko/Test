@@ -17,15 +17,14 @@ Console.WriteLine("Имя С1 не сушествует");
 
 
 int value2 = 32679;
+int buf = value2;
 int ing = 0;
 
-int buf = value2;
-while (C2 = value2 / Buf(10/ing-3)%10);
-{
+do {buf = buf / 10;
+    
     ing++;
-    buf = buf / 10;
-     until(buf>=1);
-    Console.WriteLine(C2);
+  
+    Console.WriteLine(buf>=1);
     }
   
 
