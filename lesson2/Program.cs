@@ -1,17 +1,23 @@
-﻿string Metod4(int count, string text);
-{
-    int i = 0;
-   
-    string result = string.Empty;
+﻿//
 
-    while (i < count) 
+
+
+int [] array = {1, 2, 3, 4, 5, 6, 7};
+int n = array.Length;
+int find = 7;
+int index = 0;
+while (index < n)
+{
+    if(array[index]==find)
     {
-        result = result + text;
-        i++;
+        Console.WriteLine(" выходной день");
     }
-    return result;
+   
+    index ++;
 }
-string res = Metod4(1, "не выходной день");
-Console.WriteLine(res);
+
+
+
+
 
 
